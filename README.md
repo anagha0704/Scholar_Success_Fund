@@ -10,6 +10,6 @@ The system promotes fair and transparent distribution of financial aid to ensure
 - Eligibility Criteria Evaluation: Determines eligibility based on a wide range of factors such as:
     - Family income
     - Academic performance
-    -- Previous loan history
+    - Previous loan history
 
 ![image](https://github.com/user-attachments/assets/6166ad7e-de0b-41e4-8989-97199f447fa9)
