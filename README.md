@@ -12,4 +12,11 @@ The system promotes fair and transparent distribution of financial aid to ensure
     - Academic performance
     - Previous loan history
 
+We welcome contributions to enhance the Scholar Success Fund project. If you have suggestions or improvements, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with clear and concise messages.
+4. Submit a pull request for review.
+
 ![image](https://github.com/user-attachments/assets/6166ad7e-de0b-41e4-8989-97199f447fa9)
