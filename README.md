@@ -13,10 +13,10 @@ Students frequently face the following challenges:
 Scholar Success Fund is a student financial aid management system designed to streamline the process of evaluating scholarship and loan eligibility efficiently.
 
 # Key Features
-✅ Automated Eligibility Evaluation: The system uses advanced database queries to assess a student’s financial and academic profile, matching them with the most suitable aid options.
-✅ Centralized Aid Database: Provides a unified platform where students can explore various funding opportunities, including need-based and merit-based aid.
-✅ Efficient Decision Making: Implements predefined criteria to generate reports on possible scholarships and loans, reducing manual effort and errors.
-✅ Scalability & Performance: Built using MSSQL, ensuring optimized data retrieval and processing for large student databases.
+- Automated Eligibility Evaluation: The system uses advanced database queries to assess a student’s financial and academic profile, matching them with the most suitable aid options.
+- Centralized Aid Database: Provides a unified platform where students can explore various funding opportunities, including need-based and merit-based aid.
+- Efficient Decision Making: Implements predefined criteria to generate reports on possible scholarships and loans, reducing manual effort and errors.
+- Scalability & Performance: Built using MSSQL, ensuring optimized data retrieval and processing for large student databases.
 
 This project demonstrates strong database design, SQL query optimization, and data-driven decision-making, reflecting my ability to solve real-world financial aid challenges through technology.
 
